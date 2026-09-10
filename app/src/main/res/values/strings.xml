@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SmartLibrary</string>
+    <string name="app_description">Your college library at your fingertips.</string>
+
+    <!-- Navigation Options -->
+    <string name="nav_books">Books</string>
+    <string name="nav_rules">Library Rules</string>
+    <string name="nav_contact">Contact Library</string>
+
+    <!-- Books Fragment -->
+    <string name="title_available_books">Available Books</string>
+    <string name="btn_issue_book">Issue Book</string>
+    <string name="status_available">Available</string>
+
+    <!-- Sample Books -->
+    <string name="book_1_title">Android Development with Kotlin</string>
+    <string name="book_1_author">Author: John Doe</string>
+    <string name="book_2_title">Python Programming</string>
+    <string name="book_2_author">Author: Mark Smith</string>
+    <string name="book_3_title">Data Science Fundamentals</string>
+    <string name="book_3_author">Author: James Wilson</string>
+    <string name="book_4_title">Database Management Systems</string>
+    <string name="book_4_author">Author: Korth</string>
+
+    <!-- Issue Book Activity -->
+    <string name="title_confirm_issue">Confirm Book Issue</string>
+    <string name="subtitle_confirm_issue">Please review book details below before confirming.</string>
+    <string name="label_selected_book">Selected Book:</string>
+    <string name="label_author">Author:</string>
+    <string name="status_ready_to_issue">Status: Ready to issue</string>
+    <string name="btn_confirm_issue">Confirm Issue</string>
+    <string name="toast_book_issued">Book issued successfully!</string>
+    <string name="status_issued">Issued Successfully</string>
+    <string name="status_issued_full">Status: Issued Successfully</string>
+
+    <!-- Rules Fragment -->
+    <string name="title_library_rules">Library Rules</string>
+    <string name="rule_1">1. Maintain silence inside the library.</string>
+    <string name="rule_2">2. Carry your valid college ID card.</string>
+    <string name="rule_3">3. Return books before the due date.</string>
+    <string name="rule_4">4. Do not damage library books.</string>
+    <string name="rule_5">5. Keep mobile phones on silent mode.</string>
+    <string name="rule_6">6. Maintain cleanliness.</string>
+    <string name="rule_7">7. Follow the librarian\'s instructions.</string>
+
+    <!-- Contact Fragment -->
+    <string name="title_contact_library">Contact Library</string>
+    <string name="contact_college_name">College Central Library</string>
+    <string name="label_email">Email:</string>
+    <string name="contact_email">library@college.edu</string>
+    <string name="label_phone">Phone:</string>
+    <string name="contact_phone">+91 98765 43210</string>
+    <string name="label_address">Address:</string>
+    <string name="contact_address">College Campus, Bengaluru</string>
+</resources>
