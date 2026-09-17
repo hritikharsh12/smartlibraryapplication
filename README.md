@@ -1,4 +1,43 @@
-@"
+# 📚 SmartLibrary
+
+SmartLibrary is a simple Android application developed to provide basic college library services through a user-friendly mobile interface.
+
+## ✨ Features
+
+- 📖 View available books
+- 📋 View library rules
+- 📞 View library contact information
+- 📕 Issue a book
+- ✅ Confirm book issue
+- 🔔 Receive notification after successfully issuing a book
+- 🔄 Navigation using Activities and Fragments
+- 📝 Logcat implementation
+
+## 🛠️ Technologies Used
+
+- Kotlin
+- XML
+- Android Studio
+- Android Activities
+- Android Fragments
+- Intents
+- Views
+- Notifications
+- Logcat
+
+## 📱 Application Flow
+
+```text
+Home
+ ├── Books
+ │    └── Select Book
+ │         └── Issue Book
+ │              └── Confirm Issue
+ │                   └── Notification
+ │
+ ├── Library Rules
+ │
+ └── Contact Library@"
 # SmartLibrary Application
 
 SmartLibrary is a simple Android application developed for a college library.
